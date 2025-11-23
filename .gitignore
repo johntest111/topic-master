@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# gh-pages 本地缓存
+node_modules/.cache/gh-pages
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional system files
+.DS_Store
+Thumbs.db
