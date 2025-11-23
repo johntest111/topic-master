@@ -1,6 +1,7 @@
+// CommonJS 写法
 module.exports = {
   plugins: {
+    tailwindcss: {},
     autoprefixer: {},
-    // 其他插件
-  }
-}
+  },
+};
